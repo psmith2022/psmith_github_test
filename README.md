@@ -5,3 +5,7 @@ Test repository
 
 - create a remote repo on github
 - practice git
+
+## Authors
+
+ - Peyton Smith
