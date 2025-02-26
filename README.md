@@ -8,4 +8,8 @@ Test repository
 
 ## Authors
 
- - Peyton Smith
+Peyton Smith
+ 
+usethis::use_git()
+ 
+ 
