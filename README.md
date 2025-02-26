@@ -10,4 +10,4 @@ Test repository
 
  - Peyton Smith
  
- - edit by Pascal
+ - edit by Pascal Egli
